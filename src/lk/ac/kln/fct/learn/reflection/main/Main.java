@@ -1,6 +1,5 @@
 package lk.ac.kln.fct.learn.reflection.main;
 
-//import java.lang.reflect.InvocationTargetException;
 import lk.ac.kln.fct.learn.reflection.shapes.Rectangle;
 import java.lang.reflect.Field;
 
